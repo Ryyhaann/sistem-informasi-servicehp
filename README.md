@@ -42,4 +42,35 @@ Aplikasi ini dibangun menggunakan **PHP Native** dengan 3 role utama: **Admin**,
 ---
 
 ## 📂 Struktur Folder
+📁 sistem-servis-hp/
+│
+├── 📁 config/
+│ └── db.php
+│
+├── 📁 database/
+│ └── servis_hp.sql
+│
+├── 📁 public/
+│ ├── dashboard_admin.php
+│ ├── kelola_teknisi.php
+│ ├── kelola_pelanggan.php
+│ ├── laporan_service.php
+│ ├── export_laporan.php
+│ ├── dashboard_teknisi.php
+│ ├── daftar_service.php
+│ ├── detail_service.php
+│ ├── tambah_tindakan.php
+│ ├── riwayat_teknisi.php
+│ ├── dashboard_pelanggan.php
+│ ├── tambah_service.php
+│ ├── riwayat_pelanggan.php
+│ ├── bukti_pembayaran.php
+│ ├── login.php
+│ ├── register.php
+│ ├── logout.php
+│ │
+│ ├── 📁 assets/
+│ │ ├── style.css
+│
+└── README.md
 
